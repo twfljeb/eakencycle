@@ -1,0 +1,45 @@
+.myContainer {
+	background-image: url(../img/Harley-Davidson-Motorcycles-Logo-Background-Images.jpg);
+    width:1920px;
+    height: 1080px;
+    background-repeat: no-repeat;
+    
+}
+.logoContainer {
+	color: White;
+    height: 100px;
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+.logo {
+	height: 100px;
+    width: 100px;
+    display: inline-block
+}
+.navContainer{
+    text-align: center;
+    vertical-align: top;
+    
+}
+nav{
+   height: 100px;
+    width:800px;
+    display: inline-block;
+}
+nav ul{
+    margin-top: 40px;
+}
+nav li{
+    display: inline;
+}
+nav li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: sans-serif;
+    margin-right: 30px;
+}
+.myBorder{
+    border: 1px solid white;
+}

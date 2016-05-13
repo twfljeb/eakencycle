@@ -1,0 +1,30 @@
+{
+  "name": "eakencycle",
+  "version": "1.0.0",
+  "description": "\"# eakencycle\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "eaken"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twfljeb/eakencycle.git"
+  },
+  "keywords": [
+    "storefront"
+  ],
+  "author": "twfljeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twfljeb/eakencycle/issues"
+  },
+  "homepage": "https://github.com/twfljeb/eakencycle#readme",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-mocks": "^1.5.5",
+    "angular-route": "^1.5.5",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "jquery": "^2.2.3"
+  }
+}
